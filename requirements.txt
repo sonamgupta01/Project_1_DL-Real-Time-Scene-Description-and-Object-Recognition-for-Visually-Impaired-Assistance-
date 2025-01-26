@@ -1,8 +1,0 @@
-kivy
-pillow
-opencv-python
-pytesseract
-torch
-torchvision
-transformers
-timm
